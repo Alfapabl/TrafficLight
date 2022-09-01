@@ -15,10 +15,6 @@ const Light = () => {
 		
 		<>
 		
-
-		<span className="border border-dark">
-			
-		</span>
 		<div className="container text-center">
 		
 			<div className="row"><span id="red" onClick={() => setColor("red")} className={(color === "red" ? "spinner-grow spinner-grow-sm" : "dot")} ></span></div>
