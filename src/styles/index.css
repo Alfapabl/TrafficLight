@@ -6,6 +6,15 @@
     display: inline-block;
   }
 
+  .spinner-grow{
+    height: 40px;
+    width: 40px;
+    padding-top: 1px;
+    border-radius: 50%;
+    display: inline-block;
+    
+  }
+
   #red{
     background-color: red;
   }
